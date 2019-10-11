@@ -1,0 +1,7 @@
+C:\Users\zande\source\repos\wav2spc\wav2spc\bin\Release\wav2spc.exe
+C:\Users\zande\source\repos\wav2spc\wav2spc\bin\Release\wav2spc.pdb
+C:\Users\zande\source\repos\wav2spc\wav2spc\obj\Release\wav2spc.csprojAssemblyReference.cache
+C:\Users\zande\source\repos\wav2spc\wav2spc\obj\Release\wav2spc.Properties.Resources.resources
+C:\Users\zande\source\repos\wav2spc\wav2spc\obj\Release\wav2spc.csproj.GenerateResource.cache
+C:\Users\zande\source\repos\wav2spc\wav2spc\obj\Release\wav2spc.exe
+C:\Users\zande\source\repos\wav2spc\wav2spc\obj\Release\wav2spc.pdb
